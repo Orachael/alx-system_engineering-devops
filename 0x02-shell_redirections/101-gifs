@@ -1,0 +1,3 @@
+#!/bin/bash
+echo find . -name ".gif"
+echo find . -type f -name ".gif"
